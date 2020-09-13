@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1599982807 source:c:\users\asus\desktop\graphics project\rotating fan\main.cpp
+1599994170 source:c:\users\asus\desktop\graphics project\rotating fan\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<stdlib.h>
