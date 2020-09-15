@@ -51,7 +51,7 @@ void my_keyboard(unsigned char key,int x, int y){
                 a=1;
             }
             else{
-                glutIdleFunc(NULL);
+                glutIdleFunc(NULL);// stops the rotation
                 a=0;
             }
         }
